@@ -1,0 +1,13 @@
+Tier 1:
+
+	Create a program that takes in a string and outputs the reverse.
+Don’t use any pre-built modules(methods). ex. “Hello world” → “olleH dlrow”
+
+Tier 2:
+
+	Add a piglatin method to turn the words into piglatin.To do this move the first letter or the word to the
+	end of the word, then add "ay" at the end.
+	ex.
+		"pig" = "igpay"
+		"latin" = "atinlay"
+		"banana" = "ananabay"
